@@ -1,0 +1,19 @@
+﻿<Window x:Class="lab3Deys.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Factory Method" Height="300" Width="400">
+    <DockPanel Margin="10">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Выберите цвет:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <ComboBox x:Name="ColorComboBox"
+                      Width="150"
+                      SelectionChanged="ColorComboBox_SelectionChanged">
+                <ComboBoxItem Content="Красный" IsSelected="True"/>
+                <ComboBoxItem Content="Синий"/>
+                <ComboBoxItem Content="Зелёный"/>
+            </ComboBox>
+        </StackPanel>
+
+        <WrapPanel x:Name="FiguresPanel"/>
+    </DockPanel>
+</Window>
