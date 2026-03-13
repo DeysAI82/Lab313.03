@@ -17,3 +17,4 @@ C:\Users\DeysAI\source\repos\lab3Deys\lab3Deys\obj\Debug\net8.0-windows\refint\l
 C:\Users\DeysAI\source\repos\lab3Deys\lab3Deys\obj\Debug\net8.0-windows\lab3Deys.pdb
 C:\Users\DeysAI\source\repos\lab3Deys\lab3Deys\obj\Debug\net8.0-windows\lab3Deys.genruntimeconfig.cache
 C:\Users\DeysAI\source\repos\lab3Deys\lab3Deys\obj\Debug\net8.0-windows\ref\lab3Deys.dll
+C:\Users\DeysAI\source\repos\lab3Deys\lab3Deys\obj\Debug\net8.0-windows\lab3Deys.sourcelink.json

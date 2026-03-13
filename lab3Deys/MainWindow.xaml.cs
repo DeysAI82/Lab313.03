@@ -1,6 +1,7 @@
-﻿using System.Windows;
+﻿using lab3Deys.Creators;
+using lab3Deys.Factories;
+using System.Windows;
 using System.Windows.Controls;
-using lab3Deys.Creators;
 
 namespace lab3Deys
 {
@@ -10,6 +11,7 @@ namespace lab3Deys
         {
             InitializeComponent();
             Loaded += MainWindow_Loaded;
+            
         }
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
@@ -35,37 +37,34 @@ namespace lab3Deys
             if (ColorComboBox.SelectedItem is not ComboBoxItem selectedItem)
                 return;
 
-            CircleCreator circleCreator;
-            SquareCreator squareCreator;
-            TriangleCreator triangleCreator;
+            IFigureFactory factory;
 
             switch (selectedItem.Content.ToString())
             {
                 case "Красный":
-                    circleCreator = new RedCircleCreator();
-                    squareCreator = new RedSquareCreator();
-                    triangleCreator = new RedTriangleCreator();
+                    factory = new RedFactory();
                     break;
 
                 case "Синий":
-                    circleCreator = new BlueCircleCreator();
-                    squareCreator = new BlueSquareCreator();
-                    triangleCreator = new BlueTriangleCreator();
+                    factory = new BlueFactory();
                     break;
 
                 case "Зелёный":
-                    circleCreator = new GreenCircleCreator();
-                    squareCreator = new GreenSquareCreator();
-                    triangleCreator = new GreenTriangleCreator();
+                    factory = new GreenFactory();
                     break;
 
                 default:
                     return;
             }
 
-            FiguresPanel.Children.Add(circleCreator.CreateCircle().CreateUIElement());
-            FiguresPanel.Children.Add(squareCreator.CreateSquare().CreateUIElement());
-            FiguresPanel.Children.Add(triangleCreator.CreateTriangle().CreateUIElement());
+            var circle = factory.CreateCircle();
+            var square = factory.CreateSquare();
+            var triangle = factory.CreateTriangle();
+
+            FiguresPanel.Children.Add(circle.CreateUIElement());
+            FiguresPanel.Children.Add(square.CreateUIElement());
+            FiguresPanel.Children.Add(triangle.CreateUIElement());
         }
+
     }
 }

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\figure\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\figure\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\factories\\greenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\factories\\greenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\factories\\ifigurefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\factories\\ifigurefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\factories\\bluefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\factories\\bluefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\factories\\redfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\factories\\redfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\figure\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|solutionrelative:lab3deys\\figure\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3B8A408-FA39-43E1-A93B-4E5B91DB14B1}|lab3Deys\\lab3Deys.csproj|c:\\users\\deysai\\source\\repos\\lab3deys\\lab3deys\\creators\\redsquarecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,35 +110,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlueFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\BlueFactory.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\Factories\\BlueFactory.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\BlueFactory.cs",
+              "RelativeToolTip": "lab3Deys\\Factories\\BlueFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:47:42.583Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GreenTriangleCreator.cs",
-              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\GreenTriangleCreator.cs",
-              "RelativeDocumentMoniker": "lab3Deys\\Creators\\GreenTriangleCreator.cs",
-              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\GreenTriangleCreator.cs",
-              "RelativeToolTip": "lab3Deys\\Creators\\GreenTriangleCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "RedFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\RedFactory.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\Factories\\RedFactory.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\RedFactory.cs",
+              "RelativeToolTip": "lab3Deys\\Factories\\RedFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T04:29:22.298Z"
+              "WhenOpened": "2026-03-13T04:47:24.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BlueTriangleCreator.cs",
-              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\BlueTriangleCreator.cs",
-              "RelativeDocumentMoniker": "lab3Deys\\Creators\\BlueTriangleCreator.cs",
-              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\BlueTriangleCreator.cs",
-              "RelativeToolTip": "lab3Deys\\Creators\\BlueTriangleCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IFigureFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\IFigureFactory.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\Factories\\IFigureFactory.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\IFigureFactory.cs",
+              "RelativeToolTip": "lab3Deys\\Factories\\IFigureFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T04:29:04.484Z"
+              "WhenOpened": "2026-03-13T04:47:12.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "RedTriangleCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\RedTriangleCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\RedTriangleCreator.cs",
@@ -134,7 +169,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab3Deys\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:44:34.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreenFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\GreenFactory.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\Factories\\GreenFactory.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Factories\\GreenFactory.cs",
+              "RelativeToolTip": "lab3Deys\\Factories\\GreenFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:47:58.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TriangleCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\TriangleCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\TriangleCreator.cs",
@@ -146,7 +207,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab3Deys\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml",
+              "RelativeToolTip": "lab3Deys\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T03:44:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlueTriangleCreator.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\BlueTriangleCreator.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\Creators\\BlueTriangleCreator.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\BlueTriangleCreator.cs",
+              "RelativeToolTip": "lab3Deys\\Creators\\BlueTriangleCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:29:04.484Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "GreenTriangleCreator.cs",
+              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\GreenTriangleCreator.cs",
+              "RelativeDocumentMoniker": "lab3Deys\\Creators\\GreenTriangleCreator.cs",
+              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\GreenTriangleCreator.cs",
+              "RelativeToolTip": "lab3Deys\\Creators\\GreenTriangleCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:29:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "GreenSquareCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\GreenSquareCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\GreenSquareCreator.cs",
@@ -158,19 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "lab3Deys\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml.cs",
-              "RelativeToolTip": "lab3Deys\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T03:44:34.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "lab3Deys\\AssemblyInfo.cs",
@@ -182,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Square.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Figure\\Square.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Figure\\Square.cs",
@@ -195,18 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "lab3Deys\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\MainWindow.xaml",
-              "RelativeToolTip": "lab3Deys\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T03:44:35.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RedSquareCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\RedSquareCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\RedSquareCreator.cs",
@@ -218,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "BlueSquareCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\BlueSquareCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\BlueSquareCreator.cs",
@@ -230,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "SquareCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\SquareCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\SquareCreator.cs",
@@ -242,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "GreenCircleCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\GreenCircleCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\GreenCircleCreator.cs",
@@ -254,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "BlueCircleCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\BlueCircleCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\BlueCircleCreator.cs",
@@ -266,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "RedCircleCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\RedCircleCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\RedCircleCreator.cs",
@@ -278,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "CircleCreator.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Creators\\CircleCreator.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Creators\\CircleCreator.cs",
@@ -290,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Figure\\Triangle.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Figure\\Triangle.cs",
@@ -302,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Fig.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Figure\\Fig.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Figure\\Fig.cs",
@@ -314,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\Figure\\Circle.cs",
               "RelativeDocumentMoniker": "lab3Deys\\Figure\\Circle.cs",
@@ -326,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "lab3Deys.csproj",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\lab3Deys.csproj",
               "RelativeDocumentMoniker": "lab3Deys\\lab3Deys.csproj",
@@ -338,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\DeysAI\\source\\repos\\lab3Deys\\lab3Deys\\App.xaml.cs",
               "RelativeDocumentMoniker": "lab3Deys\\App.xaml.cs",
@@ -347,10 +421,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T03:49:04.34Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
