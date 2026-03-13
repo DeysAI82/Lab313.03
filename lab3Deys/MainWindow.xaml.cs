@@ -36,34 +36,70 @@ namespace lab3Deys
 
             if (ColorComboBox.SelectedItem is not ComboBoxItem selectedItem)
                 return;
-
-            IFigureFactory factory;
+            CircleCreator circleCreator;
+            SquareCreator squareCreator;
+            TriangleCreator triangleCreator;
 
             switch (selectedItem.Content.ToString())
             {
                 case "Красный":
-                    factory = new RedFactory();
+                    circleCreator = new RedCircleCreator();
+                    squareCreator = new RedSquareCreator();
+                    triangleCreator = new RedTriangleCreator();
                     break;
 
                 case "Синий":
-                    factory = new BlueFactory();
+                    circleCreator = new BlueCircleCreator();
+                    squareCreator = new BlueSquareCreator();
+                    triangleCreator = new BlueTriangleCreator();
                     break;
 
                 case "Зелёный":
-                    factory = new GreenFactory();
+                    circleCreator = new GreenCircleCreator();
+                    squareCreator = new GreenSquareCreator();
+                    triangleCreator = new GreenTriangleCreator();
                     break;
 
                 default:
                     return;
             }
 
-            var circle = factory.CreateCircle();
-            var square = factory.CreateSquare();
-            var triangle = factory.CreateTriangle();
+            var circle = circleCreator.CreateCircle();
+            var square = squareCreator.CreateSquare();
+            var triangle = triangleCreator.CreateTriangle();
 
             FiguresPanel.Children.Add(circle.CreateUIElement());
             FiguresPanel.Children.Add(square.CreateUIElement());
             FiguresPanel.Children.Add(triangle.CreateUIElement());
+
+
+            //IFigureFactory factory;
+
+            //switch (selectedItem.Content.ToString())
+            //{
+            //    case "Красный":
+            //        factory = new RedFactory();
+            //        break;
+
+            //    case "Синий":
+            //        factory = new BlueFactory();
+            //        break;
+
+            //    case "Зелёный":
+            //        factory = new GreenFactory();
+            //        break;
+
+            //    default:
+            //        return;
+            //}
+
+            //var circle = factory.CreateCircle();
+            //var square = factory.CreateSquare();
+            //var triangle = factory.CreateTriangle();
+
+            //FiguresPanel.Children.Add(circle.CreateUIElement());
+            //FiguresPanel.Children.Add(square.CreateUIElement());
+            //FiguresPanel.Children.Add(triangle.CreateUIElement());
         }
 
     }
